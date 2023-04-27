@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Washington",
+      "country_short_name": "USA"
+    },
+    {
+        "name": "Washington",
+        "country_short_name": "USA"
+      },
+    {
+      "name": "Bihar",
+      "country_short_name": "IN"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "country_short_name": "IN"
+    },
+    {
+      "name": "kathmandu",
+      "country_short_name": "NE"
+    },
+    {
+      "name": "Butwal",
+      "country_short_name": "NE"
+    },
+    {
+      "name": "Lahore",
+      "country_short_name": "PAK"
+    },
+    {
+      "name": "Ishalamabad",
+      "country_short_name": "PAK"
+    },
+    {
+      "name": "London",
+      "country_short_name": "UK"
+    },
+    {
+      "name": "Bretain",
+      "country_short_name": "UK"
+    }
+  ]
