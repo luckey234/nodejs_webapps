@@ -23,7 +23,7 @@ app.use('/admin',AdminRoute)
 app.use("/file", imageRoute);
 app.use("/uploads", expree.static("uploads"));
 app.use('/chat',chatRoutes)
-app.get("/mail", sendMail);
+// app.get("/mail", sendMail);
 app.get("", (req, res) => {
     res.status(200).json("API running successfully");
   });
